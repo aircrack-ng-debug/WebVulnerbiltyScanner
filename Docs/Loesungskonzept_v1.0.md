@@ -63,6 +63,7 @@ Start-ups und KMU stehen verstärkt unter Druck, ihre Web-Anwendungen trotz knap
 * Community-Slack + FAQ reduziert Support-Last.
 
 ### 5.5 Monetarisierung / Kostendeckung  
+
 | Modell | Inhalt | Preis (Einführung) | Zweck |
 |--------|--------|--------------------|-------|
 | **Open Source-Core** | Voller Scanner-Funktionsumfang (Apache 2.0) | kostenlos | Schnelle Verbreitung, Vertrauensaufbau, Community-Netzwerk |
@@ -73,14 +74,19 @@ Start-ups und KMU stehen verstärkt unter Druck, ihre Web-Anwendungen trotz knap
 
 ---
 
-## 6 Roadmap (Auszug)  
+## 6 Roadmap  
 
-| Quartal | Meilenstein | Deliverable |
-|---------|-------------|-------------|
-| Q3 / 2025 | MVP | Module A02, A05, A06; GitHub Action |
-| Q4 / 2025 | v1.0 | Restliche OWASP-Module; PDF-Reporting; CVE-Cache |
-| Q1 / 2026 | Support-Launch | SLA-Backend, Ticket-System, ersten Pro-Kunden |
-| Q2 / 2026 | Schulungs-Programm | Standardisierte 4-h-Kurse, Marketing-Kampagne |
+| Zeitraum / Deadline | Meilenstein | Deliverable & Zweck |
+|---------------------|-------------|---------------------|
+| **KW 22 / 28. 05 – 02. 06. 2025** | *Scope-Freeze & Architektur* | Finales Backlog, Modul-Skeleton, CI-Grundgerüst – sichert einen klaren Funktionsrahmen trotz Prüfungsphase. |
+| **KW 23 / 03. 06 – 09. 06. 2025** | MVP-Implementierung | Kern-Engine + Module **A02, A05, A06**, GitHub-Action, Baseline-Report (Markdown). Fokus: lauffähiger End-to-End-Pfad. |
+| **KW 24 / 10. 06 – 16. 06. 2025** | Feature-Complete v0.9 | Zusätzliche Module **A01, A03**, PDF/A-Reporting, Delta-Scan-Logik; interne QA-Tests starten. |
+| **KW 25 / 17. 06 – 23. 06. 2025** | Code-Freeze & Dokumentation | Benutzerhandbuch, Compliance-Mapping, Präsentationsfolien; Bug-Fix-Sprint nur für „Show-Stopper“. |
+| **26. 06. 2025** | **Abgabe DHBW** | Quellcode-Archiv, finale Dokumentation, Demo-Video. |
+| **Juli 2025** | Public Release v1.0 | GitHub-Repo + Docker-Image, Community-Readme, erste Issues aufnehmen. |
+| **Q4 / 2025** | Support-Launch | Ticket-System, SLA-Workflows, Einstiegspreis 50 €/Monat. |
+| **Q1 / 2026** | Schulungs-Programm | Standardisierte Remote-Workshops (4 h-Crash-Kurs). |
+| **Q3 / 2026** | Enterprise-Add-ons | Compliance-Templates (ISO 27001, BSI), On-Prem-Installer, Self-hosted CVE-Mirror. |
 
 ---
 
