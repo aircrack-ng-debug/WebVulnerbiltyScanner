@@ -8,8 +8,8 @@ KMU, Start-ups und agile Entwickler*innenteams operieren in schnellen Release-Zy
 
 | Persona | Rolle & Umfeld | Hauptziele | Schmerzpunkte | Relevanz für **WVS** |
 |---------|---------------|------------|---------------|----------------------|
-| **Julia Hoffmann**<br>CTO, SaaS-Start-up (20 MA) | Führt Continuous-Deployment-Pipelines ein | Schnelle Releases **ohne Sicherheits­einbußen** | Keine Zeit für manuelle Pen-Tests; Budget­restriktionen | Automatisierte Scans müssen sich nahtlos in CI/CD integrieren und für Dev-Teams verständliche Reports erzeugen |
-| **Martin Schuster**<br>IT-Admin, mittelständischer Fertigungs­betrieb (250 MA) | Betreibt interne B2B-Webportale | Einhaltung regulatorischer Vorgaben, Verfügbarkeit | Fehlende Security-Tools, heterogene Alt-Systeme, begrenztes Personal | **WVS** soll ohne tiefe Security-Kenntnisse bedienbar sein, Findings priorisieren und Audit-Nachweise liefern |
+| **Julia Hoffmann**<br>Chief Technology Officer (CTO) bei einem SaaS-Start-up (≈ 20 MA) | Führt und optimiert eine Continuous-Deployment-Pipeline | Schnelle Releases **ohne Sicherheits­einbußen**; verlässliches Security-Gate in jedem Build | Keine Zeit für manuelle Pen-Tests; begrenztes Budget; geringe interne Security-Expertise | WVS muss sich nahtlos in CI/CD integrieren, minimalen Konfig-Aufwand haben und für Dev-Teams verständliche Reports erzeugen |
+| **Martin Schuster**<br>System- & Netzwerkadministrator in einem mittelständischen Fertigungs­betrieb (≈ 250 MA) | Betreibt mehrere interne B2B-Webportale und Legacy-Systeme | Einhaltung regulatorischer Vorgaben (IT-SiG 2.0, NIS2) und hohe Verfügbarkeit | Fehlende Security-Tools, heterogene Alt-Systeme, begrenztes Personal | WVS soll ohne tiefe Security-Kenntnisse bedienbar sein, Findings priorisieren und revisionsfeste Audit-Nachweise liefern |
 
 ## 4 Rechtlicher & normativer Rahmen  
 
