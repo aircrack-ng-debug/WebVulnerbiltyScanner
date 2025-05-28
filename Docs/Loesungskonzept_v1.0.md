@@ -74,19 +74,26 @@ Start-ups und KMU stehen verstärkt unter Druck, ihre Web-Anwendungen trotz knap
 
 ---
 
-## 6 Roadmap  
+## 6. Roadmap
 
-| Zeitraum / Deadline | Meilenstein | Deliverable & Zweck |
-|---------------------|-------------|---------------------|
-| **KW 22 / 28. 05 – 02. 06. 2025** | *Scope-Freeze & Architektur* | Finales Backlog, Modul-Skeleton, CI-Grundgerüst – sichert einen klaren Funktionsrahmen trotz Prüfungsphase. |
-| **KW 23 / 03. 06 – 09. 06. 2025** | MVP-Implementierung | Kern-Engine + Module **A02, A05, A06**, GitHub-Action, Baseline-Report (Markdown). Fokus: lauffähiger End-to-End-Pfad. |
-| **KW 24 / 10. 06 – 16. 06. 2025** | Feature-Complete v0.9 | Zusätzliche Module **A01, A03**, PDF/A-Reporting, Delta-Scan-Logik; interne QA-Tests starten. |
-| **KW 25 / 17. 06 – 23. 06. 2025** | Code-Freeze & Dokumentation | Benutzerhandbuch, Compliance-Mapping, Präsentationsfolien; Bug-Fix-Sprint nur für „Show-Stopper“. |
-| **26. 06. 2025** | **Abgabe DHBW** | Quellcode-Archiv, finale Dokumentation, Demo-Video. |
-| **Juli 2025** | Public Release v1.0 | GitHub-Repo + Docker-Image, Community-Readme, erste Issues aufnehmen. |
-| **Q4 / 2025** | Support-Launch | Ticket-System, SLA-Workflows, Einstiegspreis 50 €/Monat. |
-| **Q1 / 2026** | Schulungs-Programm | Standardisierte Remote-Workshops (4 h-Crash-Kurs). |
-| **Q3 / 2026** | Enterprise-Add-ons | Compliance-Templates (ISO 27001, BSI), On-Prem-Installer, Self-hosted CVE-Mirror. |
+| Zeitraum / Deadline           | Meilenstein               | Deliverable & Zweck |
+|------------------------------|---------------------------|---------------------|
+| **KW 16 / 15. 04 – 21. 04. 2025** | *Projekt-Kickoff & Ideenskizze* | Problemstellung, erste Skizze der Lösung, Team-Setup |
+| **KW 17 / 22. 04 – 28. 04. 2025** | Zieldefinition & Recherche | Ausarbeitung Personas, Sicherheitsanforderungen, rechtlicher Rahmen |
+| **KW 18 / 29. 04 – 05. 05. 2025** | Lösungskonzept finalisieren | Technisches Konzept, Zielarchitektur, erste Moduldefinitionen |
+| **KW 19 / 06. 05 – 12. 05. 2025** | Architekturplanung & Aufgabenverteilung | Interne Aufgabenverteilung, erste Skeleton-Struktur in iCloud |
+| **KW 20 / 13. 05 – 19. 05. 2025** | Start der Implementierung | Begin Modul A02 & A05, CLI-Basis |
+| **KW 21 / 20. 05 – 26. 05. 2025** | Prototyp-Validierung | Erste Testläufe, Markdown-Reporting, Feedbackschleife |
+| **KW 22 / 27. 05 – 02. 06. 2025** | Scope-Freeze & Architektur-Abschluss | Finales Backlog, CI-Grundgerüst, Modul-Skeleton komplett |
+| **KW 23 / 03. 06 – 09. 06. 2025** | MVP-Implementierung | Kern-Engine + Module A02, A05, A06, Markdown-Report |
+| **KW 24 / 10. 06 – 16. 06. 2025** | Feature-Complete v0.9 | Module A01, A03, PDF/A-Reporting, Delta-Scan, QA-Tests |
+| **KW 25 / 17. 06 – 23. 06. 2025** | Code-Freeze & Dokumentation | Benutzerhandbuch, Compliance-Mapping, Testprotokolle |
+| **26. 06. 2025**               | **Abgabe DHBW**           | Quellcode-Archiv, finale Doku, evtl. Demo-Video |
+| **Juli 2025**                 | Public Release v1.0       | GitHub-Repo, Docker-Image, Community-Readme |
+| **Q4 / 2025**                 | Support-Launch            | Ticket-System, SLA-Prozesse, Einführungspreis |
+| **Q1 / 2026**                 | Schulungs-Programm        | Remote-Workshops (4h-Crashkurs) |
+| **Q3 / 2026**                 | Enterprise-Add-ons        | Compliance-Vorlagen, On-Prem-Installer, CVE-Mirror |
+
 
 ---
 
